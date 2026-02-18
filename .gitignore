@@ -1,1 +1,9 @@
+# .gitignore
+
+# Projects
 resources/
+live/
+
+# Python
+venv/
+__pycache__/
